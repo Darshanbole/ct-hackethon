@@ -1,0 +1,72 @@
+{
+  "name": "Web3 Social dApps",
+  "short_name": "Web3Social",
+  "description": "A decentralized social platform built on Web3 technologies",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "375x667",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Create Post",
+      "short_name": "Post",
+      "description": "Create a new post",
+      "url": "/?action=create-post",
+      "icons": [
+        {
+          "src": "/vite.svg",
+          "sizes": "any"
+        }
+      ]
+    },
+    {
+      "name": "Notifications",
+      "short_name": "Notifications",
+      "description": "View notifications",
+      "url": "/?action=notifications",
+      "icons": [
+        {
+          "src": "/vite.svg",
+          "sizes": "any"
+        }
+      ]
+    }
+  ]
+}

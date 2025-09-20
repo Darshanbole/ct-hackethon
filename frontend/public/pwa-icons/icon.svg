@@ -1,0 +1,5 @@
+<!-- Simple icon that can be used as PNG -->
+<svg width="144" height="144" xmlns="http://www.w3.org/2000/svg">
+  <rect width="144" height="144" fill="#2563eb" rx="20"/>
+  <text x="72" y="80" text-anchor="middle" fill="white" font-size="24" font-family="Arial">W3</text>
+</svg>

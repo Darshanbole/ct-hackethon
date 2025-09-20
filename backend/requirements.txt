@@ -1,0 +1,22 @@
+# Social DApp Requirements
+flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Social Media API packages (for future integration)
+tweepy==4.14.0
+python-instagram==1.3.2
+facebook-sdk==3.1.0
+
+# Blockchain integration
+web3==6.11.0
+eth-account==0.9.0
+
+# Database
+sqlite3  # Built into Python
+
+# Utilities
+hashlib  # Built into Python
+uuid  # Built into Python
+datetime  # Built into Python
